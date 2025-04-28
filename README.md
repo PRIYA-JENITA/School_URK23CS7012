@@ -100,7 +100,7 @@ resources/
 ![Dashboard](https://github.com/PRIYA-JENITA/School_URK23CS7012/blob/c900cc9bf9263b5fee0a26a541ba979931977d01/Screenshot%202025-04-28%20220809.png)
 
 ### 🎓 Student Management Panel
-![Student Management Panel]("C:\Users\Priya\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 220825.png")
+![Student Management Panel](https://github.com/PRIYA-JENITA/School_URK23CS7012/blob/5e8d9eec1d1ab3ae70de9f57631da150c649955a/Screenshot%202025-04-28%20220825.png)
 
 ### 👨‍🏫 Teacher Management Panel
 ![Teacher Management Panel]("C:\Users\Priya\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 220845.png")
