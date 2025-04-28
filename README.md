@@ -1,21 +1,21 @@
 # School_URK23CS7012
 📚 School Management System
-A Java-based School Management System with a graphical user interface (GUI) built using Java Swing. It features database connectivity for managing students, teachers, classes, and users efficiently.
+     A Java-based School Management System with a graphical user interface (GUI) built using Java Swing. It features database connectivity for managing students, teachers, classes, and users efficiently.
 
 🚀 Features
-Login System: Secure login panel for users.
+    Login System: Secure login panel for users.
 
-Dashboard: Centralized dashboard for navigation.
+    Dashboard: Centralized dashboard for navigation.
 
-Class Management: Add, update, delete classes.
+    Class Management: Add, update, delete classes.
 
-Student Management: CRUD operations for students.
+    Student Management: CRUD operations for students.
 
-Teacher Management: CRUD operations for teachers.
+    Teacher Management: CRUD operations for teachers.
 
-Database Integration: MySQL database connectivity for storing and retrieving data.
+    Database Integration: MySQL database connectivity for storing and retrieving data.
 
-User-Friendly UI: Built with Java Swing, styled with icons.
+    User-Friendly UI: Built with Java Swing, styled with icons.
 
 🗂️ Project Structure
 
@@ -57,15 +57,15 @@ resources/
 └── teachers-icon.png
 
 🛠️ Technologies Used
-Java SE 21
+    Java SE 21
 
-Java Swing (for GUI)
+    Java Swing (for GUI)
 
-MySQL (for database)
+    MySQL (for database)
 
-JDBC (Java Database Connectivity)
+   JDBC (Java Database Connectivity)
 
-Maven (optional for dependency management)
+   Maven (optional for dependency management)
 
 ⚙️ Setup Instructions
 
@@ -75,7 +75,6 @@ Maven (optional for dependency management)
 2. Database Setup
 
 Create a MySQL database named (e.g., school_db).
-
 Import the provided SQL file (if available) or manually create tables for:
 
        users
@@ -87,9 +86,9 @@ Import the provided SQL file (if available) or manually create tables for:
        classes
 
 Update your database credentials inside DatabaseConnection.java:
-private static final String URL = "jdbc:mysql://localhost:3306/school_db";
-private static final String USER = "your-username";
-private static final String PASSWORD = "your-password";
+       private static final String URL = "jdbc:mysql://localhost:3306/school_db";
+       private static final String USER = "your-username";
+       private static final String PASSWORD = "your-password";
 
 Run the Project
 
