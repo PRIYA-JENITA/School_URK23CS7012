@@ -93,7 +93,20 @@ resources/
 
 ## 📷 Screenshots
 
-*(Add some screenshots here to showcase login, dashboard, and management panels.)*
+### 🖥️ Login Panel
+![Login Panel]("C:\Users\Priya\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 220750.png")
+
+### 🏫 Dashboard
+![Dashboard]("C:\Users\Priya\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 220809.png")
+
+### 🎓 Student Management Panel
+![Student Management Panel]("C:\Users\Priya\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 220825.png")
+
+### 👨‍🏫 Teacher Management Panel
+![Teacher Management Panel]("C:\Users\Priya\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 220845.png")
+
+### 👨‍🏫 Classes Scheduled Panel
+![Classes Scheduled Panel]("C:\Users\Priya\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 220906.png")
 
 ## 📋 Future Enhancements
 
