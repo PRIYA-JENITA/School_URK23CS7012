@@ -55,7 +55,7 @@ CREATE TABLE IF NOT EXISTS users (
 );
 
 -- Insert admin user
-INSERT INTO users (username, password, role) VALUES ('admin', 'admin123', 'Admin');
+INSERT INTO users (username, password, role) VALUES ('admins', 'admin12', 'Admin');
 select * from students;
 select * from teachers; 
 select * from classes;
