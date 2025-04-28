@@ -1,24 +1,21 @@
 # School_URK23CS7012
-📚 School Management System
-     A Java-based School Management System with a graphical user interface (GUI) built using Java Swing. It features database connectivity for managing students, teachers, classes, and users efficiently.
+# 📚 School Management System
 
-🚀 Features
-    Login System: Secure login panel for users.
+A Java-based **School Management System** with a graphical user interface (GUI) built using **Java Swing**. It features **database connectivity** for managing students, teachers, classes, and users efficiently.
 
-    Dashboard: Centralized dashboard for navigation.
+## 🚀 Features
 
-    Class Management: Add, update, delete classes.
+- **Login System**: Secure login panel for users.
+- **Dashboard**: Centralized dashboard for navigation.
+- **Class Management**: Add, update, delete classes.
+- **Student Management**: CRUD operations for students.
+- **Teacher Management**: CRUD operations for teachers.
+- **Database Integration**: MySQL database connectivity for storing and retrieving data.
+- **User-Friendly UI**: Built with Java Swing, styled with icons.
 
-    Student Management: CRUD operations for students.
+## 🗂️ Project Structure
 
-    Teacher Management: CRUD operations for teachers.
-
-    Database Integration: MySQL database connectivity for storing and retrieving data.
-
-    User-Friendly UI: Built with Java Swing, styled with icons.
-
-🗂️ Project Structure
-
+```
 src/
 ├── dao/
 │   ├── ClassDAO.java
@@ -55,44 +52,60 @@ resources/
 ├── school-logo.png
 ├── student-icon.png
 └── teachers-icon.png
+```
 
-🛠️ Technologies Used
-    Java SE 21
+## 🛠️ Technologies Used
 
-    Java Swing (for GUI)
+- **Java SE 21**
+- **Java Swing** (for GUI)
+- **MySQL** (for database)
+- **JDBC** (Java Database Connectivity)
+- **Maven** (optional for dependency management)
 
-    MySQL (for database)
+## ⚙️ Setup Instructions
 
-   JDBC (Java Database Connectivity)
+1. **Clone the Repository**
 
-   Maven (optional for dependency management)
-
-⚙️ Setup Instructions
-
-1. Clone the Repository
+   ```bash
    git clone https://github.com/your-username/school_management_system.git
+   ```
 
-2. Database Setup
+2. **Database Setup**
 
-Create a MySQL database named (e.g., school_db).
-Import the provided SQL file (if available) or manually create tables for:
+   - Create a MySQL database named (e.g., `school_db`).
+   - Import the provided SQL file (if available) or manually create tables for:
+     - `users`
+     - `students`
+     - `teachers`
+     - `classes`
+   - Update your database credentials inside `DatabaseConnection.java`:
 
-       users
+     ```java
+     private static final String URL = "jdbc:mysql://localhost:3306/school_db";
+     private static final String USER = "your-username";
+     private static final String PASSWORD = "your-password";
+     ```
 
-       students
+3. **Run the Project**
 
-       teachers
+   - Open the project in **Eclipse** or **IntelliJ IDEA**.
+   - Compile and run `SchoolManagementSystem.java`.
 
-       classes
+## 📷 Screenshots
 
-Update your database credentials inside DatabaseConnection.java:
-       private static final String URL = "jdbc:mysql://localhost:3306/school_db";
-       private static final String USER = "your-username";
-       private static final String PASSWORD = "your-password";
+*(Add some screenshots here to showcase login, dashboard, and management panels.)*
 
-Run the Project
+## 📋 Future Enhancements
 
-Open the project in Eclipse or IntelliJ IDEA.
+- Role-based authentication (Admin/Teacher).
+- Report generation (PDF/Excel exports).
+- Enhanced UI/UX with JavaFX.
+- Online deployment with server integration.
 
-Compile and run SchoolManagementSystem.java.
+## 🙏 Acknowledgements
+
+- Java Swing official documentation
+- MySQL documentation
+- StackOverflow community for troubleshooting
+
 
