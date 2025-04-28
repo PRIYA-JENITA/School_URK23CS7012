@@ -94,10 +94,10 @@ resources/
 ## 📷 Screenshots
 
 ### 🖥️ Login Panel
-![Login Panel]("C:\Users\Priya\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 220750.png")
+![Login Panel](https://github.com/PRIYA-JENITA/School_URK23CS7012/blob/fb34a74343046cffc6174dd6b051359b45ef138f/Screenshot%202025-04-28%20220750.png)
 
 ### 🏫 Dashboard
-![Dashboard]("C:\Users\Priya\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 220809.png")
+![Dashboard]()
 
 ### 🎓 Student Management Panel
 ![Student Management Panel]("C:\Users\Priya\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 220825.png")
