@@ -106,7 +106,7 @@ resources/
 ![Teacher Management Panel](https://github.com/PRIYA-JENITA/School_URK23CS7012/blob/a3c26959a2d2f51f2c1ff13e71a9c528f44e1c4b/Screenshot%202025-04-28%20220845.png)
 
 ### 👨‍🏫 Classes Scheduled Panel
-![Classes Scheduled Panel]()
+![Classes Scheduled Panel](https://github.com/PRIYA-JENITA/School_URK23CS7012/blob/7c2ec89e62d5d9473460f1f95bb3cead53f107e2/Screenshot%202025-04-28%20220906.png)
 
 ## 📋 Future Enhancements
 
